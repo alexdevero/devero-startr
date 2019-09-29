@@ -23,10 +23,10 @@
     "styled-components": "^4.3.2"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^2.0.0",
-    "@typescript-eslint/parser": "^2.0.0",
+    "@typescript-eslint/eslint-plugin": "^2.3.1",
+    "@typescript-eslint/parser": "^2.3.1",
     "babel-plugin-styled-components": "^1.10.6",
-    "eslint": "^6.1.0",
+    "eslint": "^6.5.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-react": "^7.14.3",
     "prettier": "^1.18.2",
